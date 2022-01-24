@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Linq_CFS">
+  <DataContextMoniker Name="/Linq_CFSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b5ad6ae1-2183-4389-8180-e210651da607" isExpanded="false" absoluteBounds="0.75, 0.75, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_COUNTRY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="738922c3-6ec5-40e4-84f3-a528041042a5" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d03472e5-8a9e-4271-9720-c9b84bbd91cf" isExpanded="false" absoluteBounds="2.75, 0.75, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_IMPORT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f07e4d9-6b80-4851-91d5-bc33a8fd9612" absoluteBounds="2.765, 1.21, 1.9700000000000002, 11.402872721354166" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f1655a2-bad9-4370-bbe6-239ed2115218" isExpanded="false" absoluteBounds="4.75, 0.75, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_EDIT_ADDRESS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e78626c-967a-4280-a7ec-f67a7700beed" absoluteBounds="4.765, 1.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f91b7f5a-b81c-46e6-80e5-66a0713d6c37" isExpanded="false" absoluteBounds="0.75, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_GENNO_MAX" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9d342f5-e395-40b3-bc72-539fd42cd7d3" absoluteBounds="0.76499999999999968, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="db938650-6bd9-466b-ad22-4c20d2fbcffa" isExpanded="false" absoluteBounds="2.75, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_HEAD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="569da67b-a789-4267-9d7a-1c983c3a169d" absoluteBounds="2.7649999999999997, 1.7100000000000009, 1.9700000000000002, 16.4027099609375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c7a18b9-dda1-4c20-b90e-a033e031ecef" isExpanded="false" absoluteBounds="2.75, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_LORPOR" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8479d312-40fa-4fee-816a-80d3efc769a0" absoluteBounds="2.7650000000000006, 2.21, 1.9700000000000002, 10.6336669921875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="562c1b93-aabb-4e1f-bec3-ff286ecdf2a6" isExpanded="false" absoluteBounds="4.75, 1.25, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/CER_DRUG_NAME_EXPORT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d87751e8-51f2-443b-9bd7-5c6941853452" absoluteBounds="4.765, 1.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2decf379-0f25-433c-b813-95bee568b9b3" isExpanded="false" absoluteBounds="0.75, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/TEMPLATE_ATTACH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="617c7a14-65fd-49a4-b9c0-ad11e77bf9e4" absoluteBounds="0.76499999999999968, 2.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="99b56a1a-64b3-4a6b-ab92-fdb948af156a" isExpanded="false" absoluteBounds="4.75, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/GEN_RCV_NUMBER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b1f41677-cd9a-4572-8e14-6e019faf8119" absoluteBounds="4.765, 2.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cff2c8e0-f2d2-445d-b43b-01e7bdb5bd12" isExpanded="false" absoluteBounds="0.75, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/FILE_ATTACH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc0049a6-bcdb-4872-ba3c-f9e9c1a5b014" absoluteBounds="0.765, 2.71, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8295116f-af8a-4a44-9694-067e80d80fb7" isExpanded="false" absoluteBounds="4.75, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/MAS_TEMPLATE_PROCESS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dcb2b52a-e3cf-469c-86b2-d02d0d584806" absoluteBounds="4.7650000000000006, 2.71, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e87cfd9c-ad59-4352-b37e-1d2f8aed9f98" isExpanded="false" absoluteBounds="2.75, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/Linq_CFSDataContext/MAS_PROCESS" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bcb95b9e-27e9-4fd8-a2e3-6cad562e607a" absoluteBounds="2.7649999999999997, 2.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
